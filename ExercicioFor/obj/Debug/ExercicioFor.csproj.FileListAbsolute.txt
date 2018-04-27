@@ -1,0 +1,6 @@
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\bin\Debug\ExercicioFor.exe.config
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\bin\Debug\ExercicioFor.exe
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\bin\Debug\ExercicioFor.pdb
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\obj\Debug\ExercicioFor.exe
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\obj\Debug\ExercicioFor.pdb
+C:\Users\104967\Documents\GitHub\Lista-Exercicio-For\ExercicioFor\obj\Debug\ExercicioFor.csprojResolveAssemblyReference.cache
